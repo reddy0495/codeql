@@ -37,6 +37,9 @@
 /\h\H/
 /\n\r\t/
 
+# Anchor
+/\Gabc/
+
 # Groups
 /(foo)*bar/
 /fo(o|b)ar/
